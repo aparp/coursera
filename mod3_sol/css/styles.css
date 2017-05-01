@@ -1,0 +1,22 @@
+    body {
+      font-size: 100%;
+    } 
+    #mobile-nav {
+      background-color: powderblue;
+      font-size: 1.4em;
+      margin-top: 0;
+      margin-bottom: 0;
+    }
+    #main-content {
+      background-color: powderblue;
+      margin: 40px 20px;      
+    }
+    #section-heading {
+      font-weight: bold;
+      font-size: 2em;
+    }
+    #section-content {
+      font-size: 1.4em;
+      margin-top: 20px;
+      height: 1000px;
+    }
